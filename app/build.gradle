@@ -30,7 +30,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'cs2263_hw03.App'
+    mainClass = 'edu.isu.cs2263.hw03.CourseProcessor'
 }
 
 tasks.named('test') {
