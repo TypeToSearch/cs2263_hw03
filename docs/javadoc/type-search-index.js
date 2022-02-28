@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.isu.cs2263.hw03","l":"Course"},{"p":"edu.isu.cs2263.hw03","l":"CourseProcessor"},{"p":"edu.isu.cs2263.hw03","l":"Data"},{"p":"edu.isu.cs2263.hw03","l":"GsonData"}];updateSearchResults();
