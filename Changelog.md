@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - License management plugin
 - JavaFX plugin
 - Gson dependency
+- UI for application
+- Ability to add courses
+- Ability to display all courses
+- Ability to display courses by department
+- Ability to save and load courses
+
+### Changed
+- Updated github-pages to reflect new documentation
 
 ## [v0.0.1] - 2022-02-22
 ### Added
