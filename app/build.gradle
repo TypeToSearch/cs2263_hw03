@@ -45,7 +45,7 @@ javadoc {
 }
 
 license {
-    header = project.file('LICENSE')
+    header = rootProject.file('LICENSE')
 }
 
 javafx {
